@@ -15,5 +15,4 @@ currently being supported with security updates.
 ## Reporting a Vulnerability
 
 To report vulnerability pls ask to:
-mail: bogatenko1995@gmail.com
-tg: @setclown
+telegram: @setclown
